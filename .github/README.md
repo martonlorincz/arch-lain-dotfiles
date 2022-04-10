@@ -10,3 +10,4 @@
     - ranger
     - rofi
     - zathura
+    - nitrogen: cfg and backgrounds
