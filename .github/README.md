@@ -9,3 +9,4 @@
     - picom
     - ranger
     - rofi
+    - zathura
