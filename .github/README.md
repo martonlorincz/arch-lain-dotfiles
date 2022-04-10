@@ -1,1 +1,11 @@
-### Readme file for this repo
+# Lain Arch Dotfiles
+
+## Added dotfiles:
+    
+    - .vimrc
+    - .zshrc
+    - .bashrc
+    - kitty 
+    - picom
+    - ranger
+    - rofi
