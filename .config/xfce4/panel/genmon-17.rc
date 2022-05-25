@@ -1,0 +1,6 @@
+Command=/home/marci/.local/share/usrscripts/wifiload.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=15000
+Font=Sans 15
+

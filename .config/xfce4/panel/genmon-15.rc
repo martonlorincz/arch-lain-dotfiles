@@ -1,0 +1,6 @@
+Command=/home/marci/.local/share/usrscripts/memload.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=5000
+Font=Sans 15
+

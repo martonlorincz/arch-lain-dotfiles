@@ -1,0 +1,6 @@
+Command=/home/marci/.local/share/usrscripts/cpuload.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=3000
+Font=Sans 15
+
