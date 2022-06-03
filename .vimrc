@@ -25,9 +25,9 @@ autocmd VimEnter * silent !echo -ne "\e[2 q"
 augroup END
 
 " Load Gruvbox dark and set font
-autocmd vimenter * ++nested colorscheme gruvbox
-set background=dark
-set guifont=JetBrains_Mono:h12:cANSI:qDRAFT
+" autocmd vimenter * ++nested colorscheme gruvbox
+" set background=dark
+" set guifont=JetBrains_Mono:h12:cANSI:qDRAFT
 
 " Set listchars to indicate whitespace
 " Can be turned on and of with :set list!
@@ -52,7 +52,14 @@ set omnifunc=syntaxcomplete#Complete
 set number
 
 " Set relativenumber
- set relativenumber
+set relativenumber
 
 " To set no number
 " set nonumber
+
+" random stuff
+:let mapleader = ","
+:inoremap jk <esc>
+:inoremap <esc> <nop>
+
+set viminfo=%,'100,<50,s10,h,rA:,rB:,n~/.viminfo
